@@ -3943,18 +3943,12 @@
         "other": []
       },
       "phone": {
-        "primary": " +919230961705",
+        "primary": "+919230961705",
         "other": [
           {
             "phone": "+917047001408",
-            "type": "mobile",
-            "name": ""
+            "name": "Alternative"
           },
-          {
-            "phone": "",
-            "type": "work",
-            "name": ""
-          }
         ]
       },
       "placeId": "ChIJTVSYatIJGToR63T5KWtIptM",
